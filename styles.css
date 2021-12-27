@@ -1,0 +1,21 @@
+#id {
+  border: 2px black solid;
+}
+
+body {
+  background-image: url("https://i.pinimg.com/originals/d6/c4/58/d6c45819e3e7549e3e89c25accde6e65.jpg");
+  color: white;
+}
+
+td:hover {
+  transition: all ease-in-out 300ms;
+  background-color: rgb(36, 243, 9);
+}
+
+#form {
+  background-image: url("https://i.pinimg.com/originals/95/bb/bb/95bbbb15f01eb2f860d4b258bddb0519.jpg");
+  box-shadow: 14px 17px 42px -10px rgba(250, 243, 243, 0.68);
+  background-position: all;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
